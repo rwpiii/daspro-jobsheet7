@@ -15,7 +15,7 @@ public class SiakadFor19 {
                 tertinggi = nilai;
             }
             if (nilai < terendah) {
-                terendah = nilai;
+                terendah = nilai; 
             }
             if (nilai >= 60) {
                 lulus++;
